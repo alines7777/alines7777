@@ -2,7 +2,8 @@
 
 [ she / they / he / it ]
 
-![transfeminine pride](transfem.png)TransFem AnCom![anarcho-communism](ancom.png), ![the onion router](tor.png)Tor, ![](bittorrent.png)BitTorrent/WebTorrent![](webtorrent.png) and ![](fediverse.png)Fediverse enthusiast.
+![transfeminine pride](transfem.png)TransFem AnCom![anarcho-communism](ancom.png).
+big fan of ![the onion router](tor.png)TOR, ![](bittorrent.png)BitTorrent/WebTorrent![](webtorrent.png) and the ![](fediverse.png)Fediverse.
 
 conducting semi-successful trials of knowledge in programming with implementing a command parser and basic premises of dynamic encryption
 
