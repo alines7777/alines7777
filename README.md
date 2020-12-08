@@ -11,7 +11,7 @@ conducting semi-successful trials of knowledge in programming with implementing 
 
 ### my languages:
 
- ![](k&rc.png) [C (ANSI standard)]()
+ ![](k&rc.png) [C (ANSI standard)](https://en.wikipedia.org/wiki/ANSI_C#C89)
 
 ### currently working on:
  ![](bysc.png) [BYSC](https://github.com/alines7777/bysc)
