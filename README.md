@@ -1,11 +1,15 @@
-### BIO
+## BIO
 
-[ she / they / he / it ]
-
-![transfeminine pride](transfem.png)TransFem AnCom![anarcho-communism](ancom.png).
-big fan of ![the onion router](tor.png)TOR, ![](bittorrent.png)BitTorrent/WebTorrent![](webtorrent.png) and the ![](fediverse.png)Fediverse.
+ [ she / they / he / it ]  
+ ![transfeminine pride](transfem.png) TransFem AnCom ![anarcho-communism](ancom.png)  
 
 conducting semi-successful trials of knowledge in programming with implementing a command parser and basic premises of dynamic encryption
+
+### big fan of
+ ![the onion router](tor.png)TOR  
+ ![](bittorrent.png)BitTorrent  
+ ![](webtorrent.png)WebTorrent  
+ ![](fediverse.png)Fediverse  
 
 ### my environment:
 
@@ -14,6 +18,13 @@ conducting semi-successful trials of knowledge in programming with implementing 
 ### my languages:
 
  ![](k&rc.png)C (ANSI standard)
+
+### currently working on:
+ ![](bysc.png)[BYSC](https://github.com/alines7777/bysc)
+
+### projects completed:
+
+ NONE
 
 <!--
 **alines7777/alines7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
