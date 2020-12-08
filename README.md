@@ -13,7 +13,7 @@ conducting semi-successful trials of knowledge in programming with implementing 
 
 ### my environment:
 
- ![](deb.png)Debian Sid,![](gcc.png)GCC, ![](gnome3.png)GNOME 3, ![](atom.png)Atom, ![](pencil2d.png)Pencil2D
+ ![](deb.png)Debian Sid, ![](gcc.png)GCC, ![](gnome3.png)GNOME 3, ![](atom.png)Atom, ![](pencil2d.png)Pencil2D
 
 ### my languages:
 
