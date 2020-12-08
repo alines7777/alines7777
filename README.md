@@ -7,11 +7,11 @@ conducting semi-successful trials of knowledge in programming with implementing 
 
 ### my work environment:
 
-![](deb.png) [Debian Sid](https://wiki.debian.org/DebianUnstable)  
-![](gcc.png) [GCC](https://gcc.gnu.org/)  
-![](gnome3.png) [GNOME 3](https://www.gnome.org/)  
-![](atom.png) [Atom](https://atom.io/)  
-![](pencil2d.png) [Pencil2D](https://www.pencil2d.org/)  
+![](deb.png) [Debian Sid](https://wiki.debian.org/DebianUnstable)
+![](gcc.png) [GCC](https://gcc.gnu.org/)
+![](gnome3.png) [GNOME 3](https://www.gnome.org/)
+![](atom.png) [Atom](https://atom.io/)
+![](pencil2d.png) [Pencil2D](https://www.pencil2d.org/)
 
 ### my languages:
 
@@ -25,9 +25,9 @@ conducting semi-successful trials of knowledge in programming with implementing 
  NONE
 
 ### big fan of
-![](tor.png) [TOR](https://www.torproject.org/)  
-![](bittorrent.png) [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)  
-![](webtorrent.png) [WebTorrent](https://webtorrent.io/)  
+![](tor.png) [TOR](https://www.torproject.org/)
+![](bittorrent.png) [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
+![](webtorrent.png) [WebTorrent](https://webtorrent.io/)
 ![](fediverse.png) [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
 
 <!--
