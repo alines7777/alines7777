@@ -1,7 +1,7 @@
 ## BIO
 
  [ she / they / he / it ]  
- ![](transfem.png) TransFem AnCom ![anarcho-communism](ancom.png)  
+ ![](transfem.png) [TransFem](https://lgbta.wikia.org/wiki/Transfeminine) [AnCom](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread) ![](ancom.png)  
 
 conducting semi-successful trials of knowledge in programming with implementing a command parser and basic premises of dynamic encryption
 
